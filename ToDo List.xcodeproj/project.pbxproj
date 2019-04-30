@@ -13,6 +13,7 @@
 		1F64E85B2277F2EC00230A5A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F64E85A2277F2EC00230A5A /* Assets.xcassets */; };
 		1F64E85E2277F2EC00230A5A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F64E85C2277F2EC00230A5A /* LaunchScreen.storyboard */; };
 		1F64E8662277F68000230A5A /* ToDoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F64E8652277F68000230A5A /* ToDoTableViewController.swift */; };
+		1F64E86822788A7F00230A5A /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F64E86722788A7F00230A5A /* ToDo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1F64E85D2277F2EC00230A5A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1F64E85F2277F2EC00230A5A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1F64E8652277F68000230A5A /* ToDoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoTableViewController.swift; sourceTree = "<group>"; };
+		1F64E86722788A7F00230A5A /* ToDo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				1F64E8502277F2EB00230A5A /* AppDelegate.swift */,
 				1F64E8652277F68000230A5A /* ToDoTableViewController.swift */,
+				1F64E86722788A7F00230A5A /* ToDo.swift */,
 				1F64E8542277F2EB00230A5A /* Main.storyboard */,
 				1F64E85A2277F2EC00230A5A /* Assets.xcassets */,
 				1F64E85C2277F2EC00230A5A /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				1F64E8512277F2EB00230A5A /* AppDelegate.swift in Sources */,
 				1F64E8662277F68000230A5A /* ToDoTableViewController.swift in Sources */,
 				1F64E8592277F2EB00230A5A /* ToDo_List.xcdatamodeld in Sources */,
+				1F64E86822788A7F00230A5A /* ToDo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
